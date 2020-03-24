@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143386878308",
+    "firebase_url": "https://claimadjudication.firebaseio.com",
+    "project_id": "claimadjudication",
+    "storage_bucket": "claimadjudication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143386878308:android:cc3c99112d2a834c011a71",
+        "android_client_info": {
+          "package_name": "com.claimadjudication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143386878308-fck6nkb5a83mr747b3u0tmk5nk528h23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9tqiFAQsSIKA9D6w_02N7DXYetoGBH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143386878308-fck6nkb5a83mr747b3u0tmk5nk528h23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
